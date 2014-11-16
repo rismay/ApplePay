@@ -1,0 +1,6 @@
+framework module ChasePaymentech {
+  umbrella header "ChasePaymentech.h"
+
+  export *
+  module * { export * }
+}
